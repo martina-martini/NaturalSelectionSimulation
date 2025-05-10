@@ -18,4 +18,8 @@ Further analyses are conducted and explained in the PDF report. Clearer findings
 ## HeatMap
 ![cheatmapbella](https://github.com/user-attachments/assets/3027cb7d-592d-403b-bdd8-220dd2b2ca9c)
 
+## Correlation plots
+![the20plots](https://github.com/user-attachments/assets/1a102b1a-8bc2-45bc-8d27-e0329be79912)
+
+
 
