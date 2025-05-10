@@ -9,3 +9,9 @@ Consider a simulator for natural selection with the following simplified simulat
  - A died individual cannot reproduce.
 
 🔗 PDF report attached
+
+# Result
+The following heatmap shows a general analysis of the correlation between all of the variables to evaluate which one influences the most another one.
+![cheatmapbella](https://github.com/user-attachments/assets/3027cb7d-592d-403b-bdd8-220dd2b2ca9c)
+
+Further analyses are conducted and explained in the PDF report. Clearer findings will be found running the code in the .py file.
